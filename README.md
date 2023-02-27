@@ -13,5 +13,5 @@ Return as output data: product identifier, string identifier, rate to apply, app
 ## Testing and Self-evaluation
 You can run in your tool of application executing the bean MrsProductsGrbApplication.
 Check that mocks are working with a sample request to:
-http://localhost:8092/products/prices
-http://localhost:8092/products/prices?productCode=35455&brandId=sasas&aplicationDate=2021-06-14 16:00
+http://localhost:8092/products/prices.
+http://localhost:8092/products/prices?productCode=35455&brandId=sasas&aplicationDate=2021-06-14 16:00.
