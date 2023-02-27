@@ -7,6 +7,7 @@ Accept as input parameters: application date, product identifier, string identif
 Return as output data: product identifier, string identifier, rate to apply, application dates and final price to apply.
 
 **Create a Spring boot application that exposes the agreed REST API on port 8092.**
+
 Below is the diagram of the test scenarios [Here]
 
 
