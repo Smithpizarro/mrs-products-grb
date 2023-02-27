@@ -8,6 +8,8 @@ Return as output data: product identifier, string identifier, rate to apply, app
 
 **Create a Spring boot application that exposes the agreed REST API on port 8092.**
 
-Below is the diagram of the test scenarios [Here]
+![Diagram](./src/main/resources/diagram_products.jpg "Diagram")
 
-
+## Testing and Self-evaluation
+You can run in your tool of application executing the bean MrsProductsGrbApplication.
+Check that mocks are working with a sample request to http://localhost:8092/products/prices.
