@@ -15,4 +15,4 @@ You can run in your tool of application executing the bean MrsProductsGrbApplica
 Check that mocks are working with a sample request to:
 http://localhost:8092/products/prices.
 
-http://localhost:8092/products/prices?productCode=35455&brandId=sasas&aplicationDate=2021-06-14 16:00.
+http://localhost:8092/products/prices?productCode=35455&brandId=1&aplicationDate=2021-06-14 16:00.
